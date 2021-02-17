@@ -85,11 +85,9 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 ╿ Database : %totalreg Nomor
 ╰═══════════════
 
-╭════•›「 Sosmed 」
-╿ Github :
-╿ https://github.com/Arya274/Arya-BOT3
-╿ Youtube : Drawl Nag
-╿ Instagram : @arpunchs
+╭════•›「 Sosmed
+╿ Youtube : VenixTeam
+╿ Instagram : kagak ada :v
 ╰═══════════════
 
 ╭════•›「 Rules 」
